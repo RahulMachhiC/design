@@ -1,0 +1,10 @@
+Font :- Poppins
+
+color code :- HEX
+
+sky Blue :-  0D72A0
+red shade :- E33B3B
+
+text color :- 
+black :- 000000
+grey :- 929292
